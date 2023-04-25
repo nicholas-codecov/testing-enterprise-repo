@@ -18,7 +18,10 @@ export default class Index {
     uncovered = () => {
         return true
     }    
-    
+
+    cool_new_func = () => {
+        return false
+    }    
 }
 
 // new lines for a commit
