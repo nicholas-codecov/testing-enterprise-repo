@@ -1,3 +1,5 @@
+Just adding some content so I can create a commit
+
 # TypeScript-Standard
 
 [![Workflow for Typescript Standard Action](https://github.com/codecov/typescript-standard/actions/workflows/typescript-standard.yml/badge.svg)](https://github.com/codecov/typescript-standard/actions/workflows/typescript-standard.yml) [![codecov](https://codecov.io/gh/codecov/TypeScript-Standard/branch/master/graph/badge.svg)](https://codecov.io/gh/codecov/TypeScript-Standard)
